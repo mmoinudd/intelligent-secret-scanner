@@ -3,6 +3,7 @@
 AI-powered AppSec tool that finds leaked secrets and explains how to fix them.
 
 **Status:** Planned
+
 **Stack:** Python, Gitleaks / detect-secrets, FastAPI or Streamlit, Ollama (local LLM), Docker, SQLite
 
 ## Goal
